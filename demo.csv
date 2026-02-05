@@ -1,11 +1,11 @@
-Customer ID,Gender,Age,Under 30,Senior Citizen,Married,Dependents,Number of Dependents,Country,State,City,Tenure in Months,Contract,Internet Service,Internet Type,Monthly Charge,Total Charges,Total Revenue,Satisfaction Score,Churn Score,CLTV
-CUST-001,Male,23,Yes,No,No,No,0,United States,California,Los Angeles,2,Month-to-month,Yes,Fiber Optic,89.5,179.0,179.0,3,78,1800
-CUST-002,Female,34,No,No,Yes,Yes,2,United States,Texas,Austin,18,One year,Yes,DSL,65.0,1170.0,1210.0,4,42,4200
-CUST-003,Male,67,No,Yes,Yes,No,0,United States,Florida,Tampa,36,Two year,Yes,Fiber Optic,75.0,2700.0,2820.0,5,21,6100
-CUST-004,Female,29,Yes,No,No,No,0,United States,New York,Brooklyn,5,Month-to-month,Yes,Cable,95.0,475.0,480.0,2,85,1500
-CUST-005,Male,45,No,No,Yes,Yes,3,United States,Illinois,Chicago,48,Two year,Yes,Fiber Optic,70.0,3360.0,3500.0,5,18,7200
-CUST-006,Female,52,No,No,Yes,No,0,United States,Arizona,Phoenix,12,One year,No,None,40.0,480.0,520.0,4,39,3100
-CUST-007,Male,31,No,No,No,No,0,United States,Washington,Seattle,9,Month-to-month,Yes,Fiber Optic,98.0,882.0,900.0,3,72,2100
-CUST-008,Female,72,No,Yes,Yes,Yes,1,United States,Ohio,Columbus,60,Two year,Yes,DSL,55.0,3300.0,3450.0,5,15,8000
-CUST-009,Male,41,No,No,Yes,Yes,2,United States,Georgia,Atlanta,24,One year,Yes,Cable,68.0,1632.0,1700.0,4,33,4800
-CUST-010,Female,26,Yes,No,No,No,0,United States,Nevada,Reno,1,Month-to-month,Yes,Fiber Optic,102.0,102.0,102.0,2,90,1200
+Customer ID,Gender,Age,Under 30,Senior Citizen,Married,Dependents,Number of Dependents,Country,State,City,Zip Code,Latitude,Longitude,Population,Quarter,Referred a Friend,Number of Referrals,Tenure in Months,Offer,Phone Service,Avg Monthly Long Distance Charges,Multiple Lines,Internet Service,Internet Type,Avg Monthly GB Download,Online Security,Online Backup,Device Protection Plan,Premium Tech Support,Streaming TV,Streaming Movies,Streaming Music,Unlimited Data,Contract,Paperless Billing,Payment Method,Monthly Charge,Total Charges,Total Refunds,Total Extra Data Charges,Total Long Distance Charges,Total Revenue,Satisfaction Score,Churn Score,CLTV
+CUST-001,Male,23,Yes,No,No,No,0,United States,CA,Los Angeles,90001,34.05,-118.24,4000000,Q1,No,0,2,None,Yes,12.5,No,Yes,Fiber Optic,350,No,No,No,No,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic Check,89.5,179,0,0,25,179,3,78,1800
+CUST-002,Female,34,No,No,Yes,Yes,2,United States,TX,Austin,73301,30.27,-97.74,1000000,Q2,Yes,1,18,Offer A,Yes,9.2,Yes,Yes,DSL,180,Yes,Yes,No,No,No,Yes,No,No,One year,Yes,Credit Card,65,1170,0,0,166,1210,4,42,4200
+CUST-003,Male,67,No,Yes,Yes,No,0,United States,FL,Tampa,33601,27.95,-82.46,400000,Q3,No,0,36,Offer B,Yes,6.8,Yes,Yes,Fiber Optic,220,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank Transfer,75,2700,0,0,120,2820,5,21,6100
+CUST-004,Female,29,Yes,No,No,No,0,United States,NY,Brooklyn,11201,40.69,-73.99,2600000,Q4,No,0,5,None,Yes,15.4,No,Yes,Cable,420,No,No,No,No,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic Check,95,475,0,0,38,480,2,85,1500
+CUST-005,Male,45,No,No,Yes,Yes,3,United States,IL,Chicago,60601,41.88,-87.63,2700000,Q1,Yes,2,48,Offer C,Yes,7.1,Yes,Yes,Fiber Optic,260,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit Card,70,3360,0,0,140,3500,5,18,7200
+CUST-006,Female,52,No,No,Yes,No,0,United States,AZ,Phoenix,85001,33.45,-112.07,1600000,Q2,No,0,12,None,Yes,10,No,No,None,0,No,No,No,No,No,No,No,No,One year,Yes,Bank Transfer,40,480,0,0,120,520,4,39,3100
+CUST-007,Male,31,No,No,No,No,0,United States,WA,Seattle,98101,47.61,-122.33,750000,Q3,Yes,1,9,Offer A,Yes,14.8,No,Yes,Fiber Optic,500,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic Check,98,882,0,0,55,900,3,72,2100
+CUST-008,Female,72,No,Yes,Yes,Yes,1,United States,OH,Columbus,43004,39.96,-83,900000,Q4,Yes,1,60,Offer D,Yes,5.5,Yes,Yes,DSL,120,Yes,Yes,Yes,Yes,No,No,No,No,Two year,No,Credit Card,55,3300,0,0,150,3450,5,15,8000
+CUST-009,Male,41,No,No,Yes,Yes,2,United States,GA,Atlanta,30301,33.75,-84.39,500000,Q1,No,0,24,Offer B,Yes,8.9,Yes,Yes,Cable,210,Yes,Yes,No,No,Yes,Yes,No,Yes,One year,Yes,Bank Transfer,68,1632,0,0,68,1700,4,33,4800
+CUST-010,Female,26,Yes,No,No,No,0,United States,NV,Reno,89501,39.53,-119.81,250000,Q2,No,0,1,None,Yes,18.2,No,Yes,Fiber Optic,600,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic Check,102,102,0,0,18,102,2,90,1200
